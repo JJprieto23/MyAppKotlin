@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Greeting("Joan David Moreno Guzmán")
+                    Greeting("Julian David Prieto Serrato")
                 }
             }
         }
